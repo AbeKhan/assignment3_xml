@@ -1,0 +1,66 @@
+<lab>
+    <computer id="1048135">
+        <manufacturer>Dell</manufacturer>
+        <yearpurchased>1998</yearpurchased>
+        <processor>i7</processor>
+        <monitors>
+            <monitor id="thefirst">
+                <manufacturer>HP</manufacturer>
+                <resolution>(1920X1080) </resolution>
+            </monitor>
+            <monitor id="thesecond">
+                <manufacturer>HP</manufacturer>
+                <resolution>(1920X1080) </resolution>
+            </monitor>
+        </monitors>
+    </computer>
+
+    <computer id="339423">
+        <manufacturer>HP</manufacturer>
+        <yearpurchased>2020</yearpurchased>
+        <processor>i9</processor>
+        <monitors>
+            <monitor id="theother">
+                <manufacturer>HP</manufacturer>
+                <resolution>(1920X1080) </resolution>
+            </monitor>
+            <monitor id="theotherone">
+                <manufacturer>HP</manufacturer>
+                <resolution>(1920X1080) </resolution>
+            </monitor>
+        </monitors>
+    </computer>
+
+    <computer id="2743525">
+        <manufacturer>Dell</manufacturer>
+        <yearpurchased>2000</yearpurchased>
+        <processor>i3</processor>
+        <monitors>
+            <monitor id="cool">
+                <manufacturer>HP</manufacturer>
+                <resolution>(1920X1080) </resolution>
+            </monitor>
+            <monitor id="thecoolerone">
+                <manufacturer>HP</manufacturer>
+                <resolution>(1920X1080) </resolution>
+            </monitor>
+        </monitors>
+    </computer>
+
+    <computer id="admin">
+        <manufacturer>Dell</manufacturer>
+        <yearpurchased>0000</yearpurchased>
+        <processor>celeron</processor>
+        <monitors>
+            <monitor id="admin1">
+                <manufacturer>HP</manufacturer>
+                <resolution>(1920X1080) </resolution>
+            </monitor>
+            <monitor id="admin2">
+                <manufacturer>HP</manufacturer>
+                <resolution>(1920X1080) </resolution>
+            </monitor>
+        </monitors>
+    </computer>
+
+</lab>
