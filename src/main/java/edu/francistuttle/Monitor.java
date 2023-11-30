@@ -6,9 +6,9 @@ public class Monitor {
     String resolution;
 
     public Monitor(String monitorID, String mointormManufacturer, String resolution) {
-        monitorID = this.monitorID;
-        mointormManufacturer = this.mointormManufacturer;
-        resolution = this.resolution;
+        this.monitorID = monitorID;
+        this.mointormManufacturer = mointormManufacturer;
+        this.resolution = resolution;
     }
 
     public void getMonitorsID() {
@@ -18,7 +18,7 @@ public class Monitor {
     @Override
     public String toString() {
 
-        return "Monitor ID:" + monitorID + "Manufacturer" + mointormManufacturer + "Resolution" + resolution;
+        return "Monitor ID :" + monitorID + " Manufacturer: " + mointormManufacturer + " Resolution :" + resolution;
     }
 
 }
