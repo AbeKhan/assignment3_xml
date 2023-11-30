@@ -5,12 +5,16 @@ public class Computer {
     String computerManufacturer;
     String yearPurchased;
     String processor;
+    Monitor one;
+    Monitor two;
 
-    public Computer(String computerID, String computerManufacturer, String yearPurchased, String processor) {
+    public Computer(String computerID, String computerManufacturer, String yearPurchased, String processor, Monitor one, Monitor two) {
         computerID = this.computerID;
         computerManufacturer = this.computerManufacturer;
         yearPurchased = this.yearPurchased;
         processor = this.processor;
+        one = this.one;
+        two = this.two;
     }
 
     @Override

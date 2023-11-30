@@ -12,7 +12,7 @@ public class Monitor {
     }
 
     public void getMonitorsID() {
-        System.out.println(mointormManufacturer);
+        System.out.println(monitorID);
     }
 
     @Override
